@@ -19,3 +19,5 @@
 
 </p>
 <hr>
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/apisteftos?si=a6fff8eca4cb4402)
