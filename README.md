@@ -1,10 +1,10 @@
 <h1 align="left"> 𝒶𝑜𝒷𝒶 ㋡ </h1>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=jeancarlopolo&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=jeancarlopolo&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" width="600">
 
 
 
 <br/><br/>
-<img src="https://img.shields.io/static/v1?label=Overview&message=JEANCARLOPOLO&color=f8efd4&style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=JEANCARLOPOLO&color=f8efd4&style=for-the-badge&logo=GitHub" width="300">
 
 ### meu nome é jean 👍🏻
 
