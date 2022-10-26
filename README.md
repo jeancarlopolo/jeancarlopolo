@@ -16,10 +16,10 @@
 <h4 align="center">
 
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/jeancarlopolo)](https://www.instagram.com/jean.carlo.polo/)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/jeancarlopolo)](https://www.linkedin.com/in/jean-carlo-dev/)
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/jeancarlopolo)](https://open.spotify.com/user/apisteftos)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://github.com/jeancarlopolo)](https://wa.link/x5zmta)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/jeancarlopolo)](mailto:jeancarlopolo03@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/jeancarlopolo)](https://www.linkedin.com/in/jean-carlo-dev/)
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/jeancarlopolo)](https://open.spotify.com/user/apisteftos)
 [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://github.com/jeancarlopolo)](https://steamcommunity.com/id/TONHAOMOTOTAXI)
 [![Letterboxd Badge](https://img.shields.io/badge/Letterboxd-1c1a3d?style=for-the-badge&logo=Letterboxd&logoColor=white&link=https://github.com/jeancarlopolo)](https://letterboxd.com/TonhaoMototaxi/)
 </h4>
