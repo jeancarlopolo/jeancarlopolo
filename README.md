@@ -3,7 +3,7 @@
 
 
 
-
+<br/><br/>
 <img src="https://img.shields.io/static/v1?label=Overview&message=JEANCARLOPOLO&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 ### meu nome é jean 👍🏻
@@ -12,8 +12,8 @@
 
 *Estudando o terceiro semestre de Ciência da Computação na UEL.*
 
-
-
+<br/><br/>
+<h4 align="center">
 
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/jeancarlopolo)](https://www.instagram.com/jean.carlo.polo/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/jeancarlopolo)](https://www.linkedin.com/in/jean-carlo-dev/)
@@ -22,10 +22,9 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/jeancarlopolo)](mailto:jeancarlopolo03@gmail.com)
 [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://github.com/jeancarlopolo)](https://steamcommunity.com/id/TONHAOMOTOTAXI)
 [![Letterboxd Badge](https://img.shields.io/badge/Letterboxd-1c1a3d?style=for-the-badge&logo=Letterboxd&logoColor=white&link=https://github.com/jeancarlopolo)](https://letterboxd.com/TonhaoMototaxi/)
+</h4>
 
 
-
-<br/><br/>
 ***
 <h1 align="center"> Tocando agora: </h1>
 <p align="center">
