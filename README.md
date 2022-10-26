@@ -23,5 +23,5 @@
 ***
 <h1 align="center"> Tocando agora: </h1>
 <p align="center">
-<img src="https://now-play.vercel.app/api/generate?uid=b9a18bd3-aa8c-4d4d-aa62-cd968cb8915e&theme=dark" />
+<img src="https://now-play.vercel.app/api/generate?uid=b9a18bd3-aa8c-4d4d-aa62-cd968cb8915e" />
 </p>
