@@ -6,13 +6,15 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=JEANCARLOPOLO&color=f8efd4&style=for-the-badge&logo=GitHub" width="300">
 
+
 ### meu nome é jean 👍🏻
 
 <p>
 
 *Estudando o terceiro semestre de Ciência da Computação na UEL.*
-
-
+<br/><br/>
+<br/><br/>
+  
 <h4 align="center">
 
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/jeancarlopolo)](https://www.instagram.com/jean.carlo.polo/)
