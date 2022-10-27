@@ -12,7 +12,7 @@
 
 *Estudando o terceiro semestre de Ciência da Computação na UEL.*
 
-<br/><br/>
+
 <h4 align="center">
 
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/jeancarlopolo)](https://www.instagram.com/jean.carlo.polo/)
