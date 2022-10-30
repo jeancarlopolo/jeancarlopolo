@@ -23,7 +23,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/jeancarlopolo)](https://www.linkedin.com/in/jean-carlo-dev/)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/jeancarlopolo)](https://open.spotify.com/user/apisteftos)
 [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://github.com/jeancarlopolo)](https://steamcommunity.com/id/TONHAOMOTOTAXI)
-[![Letterboxd Badge](https://img.shields.io/badge/Letterboxd-1c1a3d?style=for-the-badge&logo=Letterboxd&logoColor=white&link=https://github.com/jeancarlopolo)](https://letterboxd.com/TonhaoMototaxi/)
+[![Letterboxd](https://img.shields.io/static/v1?style=for-the-badge&message=Letterboxd&color=222222&logo=Letterboxd&logoColor=00D735&label=)](https://letterboxd.com/TonhaoMototaxi/)
 </h4>
 
 
