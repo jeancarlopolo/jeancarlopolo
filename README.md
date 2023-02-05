@@ -11,7 +11,7 @@
 
 <p>
 
-*Estudando o terceiro semestre de Ciência da Computação na UEL.*
+*Estudando o quarto semestre de Ciência da Computação na UEL.*
 <br/><br/>
 <br/><br/>
   
