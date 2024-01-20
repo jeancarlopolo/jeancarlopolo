@@ -15,7 +15,7 @@
 <br/><br/>
 <br/><br/>
   
-<h4 align="center">
+<h4 align="right">
 
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/jeancarlopolo)](https://www.instagram.com/jean.carlo.polo/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/jeancarlopolo)](mailto:jeancarlopolo03@gmail.com)
