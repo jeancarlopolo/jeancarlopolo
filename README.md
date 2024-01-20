@@ -25,7 +25,19 @@
 
 
 ***
-<h1 align="center"> Tocando agora: </h1>
-<p align="center">
+<h2 align="left"> Tecnologias que estou aprendendo no momento: </h2>
+<h3 align="left">
+
+![Dart](https://img.shields.io/static/v1?style=for-the-badge&message=Dart&color=0175C2&logo=Dart&logoColor=FFFFFF&label=)
+![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
+![MobX](https://img.shields.io/static/v1?style=for-the-badge&message=MobX&color=222222&logo=MobX&logoColor=FF9955&label=)
+![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)
+
+</h3>
+
+***
+
+<h1 align="left"> Tocando agora: </h1>
+<p align="left">
 <img src="https://now-play.vercel.app/api/generate?uid=b9a18bd3-aa8c-4d4d-aa62-cd968cb8915e" />
 </p>
