@@ -11,7 +11,7 @@
 
 <p>
 
-*Estudando o sexto semestre de Ciência da Computação na UEL.*
+*Estudando Ciência da Computação na UEL.*
 <br/><br/>
 <br/><br/>
   
