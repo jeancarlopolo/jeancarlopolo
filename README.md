@@ -11,7 +11,7 @@
 
 <p>
 
-*Estudando Ciência da Computação na UEL.*
+*e eu estou estudando Ciência da Computação na UEL.*
 <br/><br/>
 <br/><br/>
   
